@@ -1,0 +1,324 @@
+*{
+    padding: 0;
+    margin: 5px;
+    margin-top: 50px;
+    font-family: 'Lato', sans-serif;
+    /*border: solid 1px white;*/
+}
+
+body{
+    background-color: #181817;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+#menu{
+    padding: 10px 0;
+}
+
+header #menu ul{
+    margin: 0;
+    padding: 0;
+}
+
+header #menu ul li{
+    display: inline-block;
+    padding: 10px;
+    vertical-align: middle;
+}
+
+header #menu ul #name span{
+    color: red;
+    font-size: 70px;
+}
+
+img{
+    image-resolution: 100px 100px;
+    width: 230px;
+    height: 230px;
+    border-radius: 250px;
+    margin-right: 120px;
+    }
+    
+
+
+header #menu ul #name{
+    font-size: 30px;
+    text-align: left;
+    color: white;
+    width: 200px;
+}
+
+header #menu #subTitle{
+    margin-top: 0px;
+    width: 300px;
+    margin-left: 120px;
+}
+
+header #menu #title2{
+    font-size: 14px;
+    text-align: center;
+    color: white;
+    width: 600px;
+    margin-top: 0;
+    margin-left: 285px;
+}
+
+/*-------------------------------------------------------*/
+
+.contentIntro{
+    display: flex !important;
+    align-items: center;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 0px;
+}
+
+
+header main div p{
+    margin-top: 50px;
+    height: 2px;
+    color: red;
+    margin-left: 390px;
+}
+
+
+main{
+    margin-left: 40px;
+}
+
+
+header main ul{
+    color: white;
+    font-size: 15px;
+    padding: 0;
+    margin: 0;
+    
+}
+
+
+
+header main ul #loc{
+    display: inline-block;
+    margin-top: 50px;
+    padding: 5px;
+    margin-right: 180px;
+}
+
+
+header main ul #Pho{
+    display: inline-block;
+    margin-top: 50px;
+    padding: 5px; 
+    margin-right: 180px;   
+}
+
+header main ul #web{
+    display: inline-block;
+    margin-top: 50px;
+    padding: 5px;
+    margin-right: 180px;
+}
+
+header main ul #Em{
+    display: inline-block;
+    margin-top: 50px;
+    padding: 5px;
+    margin-right: 180px;
+}
+
+header main #list2{
+    padding: 0;
+    margin-top: 0;
+}
+
+header main ul #locR{
+    display: inline-block;
+    margin-top: 5px;
+    padding: 5px;
+    margin-right: 140px;  
+}
+
+header main ul #phoR{
+    display: inline-block;
+    margin-top: 5px;
+    padding: 5px;
+    margin-right: 90px;  
+}
+
+header main ul #webR{
+    display: inline-block;
+    margin-top: 5px;
+    font-size: 10px;
+    padding: 5px;
+    margin-right: 80px;  
+}
+
+header main ul #emR{
+    display: inline-block;
+    margin-top: 1px;
+    font-size: 10px;
+    padding: 5px;
+}
+
+
+header main ul {
+    padding: 1px;
+    margin-left: 380px;
+    font-size: 15px;
+   
+}
+
+/*----------------------------------------------------*/
+
+
+header .informativeText{
+    color: white;
+    text-align: left;
+    list-style: none;
+    vertical-align: middle;
+}
+
+header .informativeText ul{
+    vertical-align: middle;
+    list-style: none;
+    display: inline-block;
+   
+}
+
+
+header .informativeText ul li{
+    list-style: none;
+    display: inline-block;
+    color: white;
+    margin-left: 190px;
+}
+
+h3{
+    margin: 0;
+    padding: 0;
+    font-size: 90%;
+    text-align: center;
+}
+
+
+
+header .informativeText ul #intro #introP2 h4{
+    margin-top: 0;
+    font-size: 70%;
+    margin: 0;
+    color: white;
+    text-align: center;
+    
+}
+
+header .informativeText ul #intro #introP2{
+    padding: 0;
+    margin: 0;
+}
+
+header .informativeText ul #intro{
+     margin-top: 0;
+     align-items: center;
+}
+
+
+header .informativeText ul #paragraph{
+    width: 600px;
+    color: white;
+    display: inline-block;
+    text-align: left;
+}
+
+#introParagraph{
+    font-size: 15px;
+}
+
+
+
+
+body .steps{
+    color: white;
+    margin-top: 150px;
+    padding: 5px;
+    margin-left: 150px;
+}
+
+
+body .steps #experId{
+    text-align: center;
+    margin-left: 0;
+}
+
+body .steps div{
+    margin-top: 10px;
+    padding: 5px;
+    width: 200px;
+    font-size: 80%;
+    display: inline-block;
+}
+
+body .steps ul{
+    padding: 0px;
+    margin-top: 0;
+    width: 800px;
+    margin-left: 340px;
+}
+
+
+body .steps ul li{
+    margin-top: 0;
+    width: 200px;
+    margin-right: 30px;
+    display: inline-block;
+    
+}
+
+.Skills{
+    margin-top: 100px;
+    color: white;
+    display: flex;
+    padding: 5px;
+}
+
+
+
+.Skills #skTitle{
+    margin-left: 240px;
+}
+
+.Skills #skJava{
+    margin-left: 280px;
+}
+
+.Skills #skPython{
+    margin-left: 150px;
+}
+
+.Skills #skC{
+    margin-left: 150px;
+}
+
+
+.Skills2{
+    margin-top: 100px;
+    color: white;
+    display: flex;
+    padding: 5px;
+}
+
+.Skills2 #skHtml{
+    margin-left: 570px;
+}
+
+.Skills2 #skGit{
+    margin-left: 150px;
+}
+
+.Skills2 #skSQLlen{
+    margin-left: 150px;
+}
+
+
